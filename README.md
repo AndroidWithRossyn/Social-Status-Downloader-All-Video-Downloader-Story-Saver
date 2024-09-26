@@ -1,17 +1,8 @@
 <h1 align="center">Social Status Downloader - All Video Downloader & Story Saver</h1>
 
 This application makes downloading WhatsApp and WA Business image and video statuses incredibly simple. Get the app now to access all statuses in their original resolutions.
-<br>
-<br>
 
-<div align="center">
-
-<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40banrossyn-28a8ea"></a>
-<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%40+919694260426-28a8ea"></a>
-<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-banrossyn-informational"></a>
-<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Email-banrossyn%40gmail.com-blue"></a>
-
-</div>
+> Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
 
 Social Status Downloader App is a versatile application designed to help users download videos from various sources on the internet. These sources typically include popular video-sharing platforms like Vimeo, Instagram, Josh, Triller, and more. The app provides a user-friendly interface that allows users to enter the URL of the video they want to download and then facilitates the downloading process.
 
@@ -34,31 +25,30 @@ Social Status Downloader App is a versatile application designed to help users d
 
 
 ## Features
-- Latest SDK version
-- Android 11, 12 & 13 support
-- Splash Screen
-- Download videos from different social medias
-- Save Status (WhatsApp & WhatsApp Business)
-- Open WhatsApp & WhatsApp Business from within the app.
-- Instagram media saver
-- Video downloader for Dailymotion
-- Video downloader for Vimeo
-- Video downloader for Josh
-- Video downloader for Triller
-- Video downloader for Chingari
-- Video downloader for Youtube
-- Video downloader for Pinterest
-- My Gallery for view, delete & share all downloaded media
-- Inbuilt video player
-- Admob Ads with full width Banner ad, Large Banner and Interstitial
-- MAX (Applovin) ads with Facebook bidding Ads
-- OneSignal push notifications supported
-- Remove Ads(One Time Purchases)
-- Show Downloaded Media Link History
-- Multiple Language Supported
+- Latest SDK version  
+- Supports Android 11, 12 & 13  
+- Splash Screen  
+- Download from multiple social platforms  
+- WhatsApp & WhatsApp Business Status Saver  
+- Open WhatsApp & WhatsApp Business within the app  
+- Instagram media saver  
+- Video downloader for Dailymotion, Vimeo, Josh, Triller, Chingari, YouTube, Pinterest  
+- My Gallery to view, delete & share media  
+- Built-in video player  
+- Admob (Banner, Large Banner, Interstitial)  
+- MAX Ads (Applovin & Facebook)  
+- OneSignal push notifications  
+- Remove Ads (One-Time Purchase)  
+- Download history  
+- Multi-language support
 
 
+### Find this Repository useful? ❤️
+Support it by joining stargazers for this repository. ⭐
 
+Also, [follow me on GitHub](https://github.com/AndroidWithRossyn/) for my next creations! 🤩
+
+Feel free to contribute, raise issues, or suggest features via GitHub!
 
 
 # Screenshots:
@@ -91,6 +81,23 @@ Social Status Downloader App is a versatile application designed to help users d
 
 
 
+### Copyright & License
+```
+© 2024 Rossyn. All rights reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+---
 
   
 <p align="center">
